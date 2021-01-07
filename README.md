@@ -1,6 +1,6 @@
 <img src="screencap.png" align="right" width="250">
 
-# [play floppy bird](https://nebez.github.io/floppybird/)
+# [play floppy bird](https://nebez.github.io/floppybird/) 
 
 If you missed the Flappy Bird hype, here's your chance to try the best vintage knockoff.
 
